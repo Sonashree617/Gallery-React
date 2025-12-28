@@ -73,6 +73,3 @@ React documentation
 
 
 
-Create a live demo section
-
-Just tell me 💙
